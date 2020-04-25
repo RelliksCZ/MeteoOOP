@@ -1,0 +1,13 @@
+C:\Users\Martas\source\repos\Meteo_OOP\Meteo_OOP\bin\Debug\netcoreapp3.1\Meteo_OOP.exe
+C:\Users\Martas\source\repos\Meteo_OOP\Meteo_OOP\bin\Debug\netcoreapp3.1\Meteo_OOP.deps.json
+C:\Users\Martas\source\repos\Meteo_OOP\Meteo_OOP\bin\Debug\netcoreapp3.1\Meteo_OOP.runtimeconfig.json
+C:\Users\Martas\source\repos\Meteo_OOP\Meteo_OOP\bin\Debug\netcoreapp3.1\Meteo_OOP.runtimeconfig.dev.json
+C:\Users\Martas\source\repos\Meteo_OOP\Meteo_OOP\bin\Debug\netcoreapp3.1\Meteo_OOP.dll
+C:\Users\Martas\source\repos\Meteo_OOP\Meteo_OOP\bin\Debug\netcoreapp3.1\Meteo_OOP.pdb
+C:\Users\Martas\source\repos\Meteo_OOP\Meteo_OOP\obj\Debug\netcoreapp3.1\Meteo_OOP.csprojAssemblyReference.cache
+C:\Users\Martas\source\repos\Meteo_OOP\Meteo_OOP\obj\Debug\netcoreapp3.1\Meteo_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Martas\source\repos\Meteo_OOP\Meteo_OOP\obj\Debug\netcoreapp3.1\Meteo_OOP.AssemblyInfoInputs.cache
+C:\Users\Martas\source\repos\Meteo_OOP\Meteo_OOP\obj\Debug\netcoreapp3.1\Meteo_OOP.AssemblyInfo.cs
+C:\Users\Martas\source\repos\Meteo_OOP\Meteo_OOP\obj\Debug\netcoreapp3.1\Meteo_OOP.dll
+C:\Users\Martas\source\repos\Meteo_OOP\Meteo_OOP\obj\Debug\netcoreapp3.1\Meteo_OOP.pdb
+C:\Users\Martas\source\repos\Meteo_OOP\Meteo_OOP\obj\Debug\netcoreapp3.1\Meteo_OOP.genruntimeconfig.cache
